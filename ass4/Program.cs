@@ -278,6 +278,25 @@
             //    Console.WriteLine("Invalid input. Time should be at least 2 hours.");
             //}
             #endregion
+            #region Q19
+            //Console.WriteLine("enter size arry");
+            //    int n =int.Parse(Console.ReadLine());
+            //int[,] identical = new int[n,n];
+            //for (int i = 0; i < n; i++) {
+            //    identical[i, i] = 1;
+
+            //}
+            //for (int i = 0; i < n; i++)
+            //{
+            //    for (int j = 0; j < n; j++) { 
+            //    Console.Write(identical[i, j]);
+
+
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            #endregion
         }
     }
 } 
