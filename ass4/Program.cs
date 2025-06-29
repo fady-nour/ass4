@@ -162,8 +162,17 @@
             //};
             //Console.WriteLine(message);
             #endregion
+            #region Q13
+            //Console.WriteLine("enter ypur string to reverse it");
+            //string text =Console.ReadLine();
+            //string reverse ="";
+            //int l = text.Length;
+            //for (int i = 0; i < l; i++) { 
+            //    reverse += text[l-i-1];
 
-
+            //}
+            //Console.WriteLine(reverse);
+            #endregion
         }
     }
 }
