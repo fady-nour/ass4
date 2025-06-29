@@ -344,6 +344,20 @@
 
 
             #endregion
+            #region Q23
+            //int[] arr = { 1, 23, 5, 6, 4, 8, 9 };
+            //int max = arr[0];
+            //int min = arr[1];
+            //for (int i = 0; i < arr.Length; i++)
+            //{ 
+            //    if(arr[i] > max)
+            //        max = arr[i];
+            //    if(arr[i] < min)
+            //        min = arr[i];
+            //}
+            //Console.WriteLine("max ="+max);
+            //Console.WriteLine("min ="+min);
+            #endregion  
 
         }
     }
