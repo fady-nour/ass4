@@ -124,7 +124,7 @@
             //    marks[i] = int.Parse(Console.ReadLine());
             //    total += marks[i];
             //}
-    
+
             //double average = total / 5.0;
             //double percentage = (total / 500.0) * 100;
             //Console.WriteLine($"total = {total}");
@@ -132,6 +132,17 @@
             //Console.WriteLine($"percentage = {percentage}");
 
 
+            #endregion
+            #region Q11
+            //Console.WriteLine("enter month number to get number of day");
+            //int num = int.Parse(Console.ReadLine());
+            //int message = num switch
+            //{
+            //    2 => 28,
+            //    4 | 6 | 9 => 30,
+            //    _ => 31
+            //};
+            //Console.WriteLine(message);
             #endregion
         }
     }
