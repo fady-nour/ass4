@@ -186,7 +186,30 @@
             //}
             //Console.WriteLine(reverse);
             #endregion
-          
+            #region Q15
+            // Console.WriteLine("enter start range");
+            // int num1 = int.Parse(Console.ReadLine());
+            // Console.WriteLine("enter end range");
+            // int num2 = int.Parse(Console.ReadLine());
+            // for (int i = num1; i <= num2; ++i)
+            // {
+            //     bool prime = true;
+            //     if (i <= 1)
+            //         prime = false;
+            //     for (int j = 2; j < i; ++j)
+            //     {
+            //         if (i % j == 0)
+            //         {
+            //             prime = false;
+            //             break;
+            //         }
+            //     }
+            //     if (prime)
+            //         Console.Write(i+" ");
+
+            //}
+            #endregion
+
         }
     }
 }
