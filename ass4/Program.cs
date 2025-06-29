@@ -90,6 +90,18 @@
             //        Console.Write(" ");
             //}
             #endregion
+            #region Q8
+            //Console.WriteLine("enter num to get even within range");
+            //int num = int.Parse(Console.ReadLine());
+            //for (int i = 1; num >= i; i++)
+            //{
+                
+            //    if (i%2 == 0)
+            //        Console.Write(i);
+            //    if(i !=num)
+            //        Console.Write(" ");
+            //}
+            #endregion
 
 
         }
