@@ -297,6 +297,16 @@
             //}
 
             #endregion
+            #region Q20
+            //int[] arr = {2,4,5,6,8 };
+            //int sum = 0;
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    sum += arr[i];
+
+            //}
+            //Console.WriteLine(sum);
+            #endregion
         }
     }
 } 
