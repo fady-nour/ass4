@@ -228,7 +228,32 @@
             //    Console.WriteLine(binarynum);
             //}
             #endregion
+            #region Q17
+            //Console.Write("Enter x1: ");
+            //double x1 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y1: ");
+            //double y1 = double.Parse(Console.ReadLine());
 
+            //Console.Write("Enter x2: ");
+            //double x2 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y2: ");
+            //double y2 = double.Parse(Console.ReadLine());
+
+            //Console.Write("Enter x3: ");
+            //double x3 = double.Parse(Console.ReadLine());
+            //Console.Write("Enter y3: ");
+            //double y3 = double.Parse(Console.ReadLine());
+
+            
+            //if ((y2 - y1) * (x3 - x2) == (y3 - y2) * (x2 - x1))
+            //{
+            //    Console.WriteLine("The points lie on a straight line.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("The points do NOT lie on a straight line.");
+            //}
+            #endregion
 
         }
     }
