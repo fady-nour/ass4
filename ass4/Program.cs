@@ -173,6 +173,20 @@
             //}
             //Console.WriteLine(reverse);
             #endregion
+            #region Q14
+            //Console.WriteLine("Enter integer num to get reverse");
+            //int num =int.Parse(Console.ReadLine());
+            //int reverse=0;
+
+            //while (num != 0)
+            //{
+            //    int reminder = num % 10;
+            //    reverse = (reverse * 10) + reminder;
+            //    num = num / 10;
+            //}
+            //Console.WriteLine(reverse);
+            #endregion
+          
         }
     }
 }
