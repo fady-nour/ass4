@@ -244,7 +244,7 @@
             //Console.Write("Enter y3: ");
             //double y3 = double.Parse(Console.ReadLine());
 
-            
+
             //if ((y2 - y1) * (x3 - x2) == (y3 - y2) * (x2 - x1))
             //{
             //    Console.WriteLine("The points lie on a straight line.");
@@ -254,7 +254,30 @@
             //    Console.WriteLine("The points do NOT lie on a straight line.");
             //}
             #endregion
-
+            #region Q18
+            //Console.WriteLine("enter duration to complete task");
+            //double duration = double.Parse(Console.ReadLine());
+            //if (duration > 2 && duration < 3)
+            //{
+            //    Console.WriteLine("they are considered highly efficient");
+            //}
+            //else if (duration > 3 && duration < 4)
+            //{
+            //    Console.WriteLine("they are instructed to increase their speed");
+            //}
+            //else if (duration > 4 && duration < 5)
+            //{
+            //    Console.WriteLine("You need to leave the company");
+            //}
+            //else if (duration >= 5)
+            //{
+            //    Console.WriteLine("You need to leave the company");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input. Time should be at least 2 hours.");
+            //}
+            #endregion
         }
     }
 } 
