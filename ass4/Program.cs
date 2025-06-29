@@ -144,6 +144,26 @@
             //};
             //Console.WriteLine(message);
             #endregion
+            #region Q12
+            //Console.WriteLine("enter num 1 : ");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("enter num 2  : ");
+            //int num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("enter operator : ");
+            //char oper =char.Parse(Console.ReadLine());
+            //double message = oper switch
+            //{
+            //    '+' =>num1+num2,
+            //    '-' =>num1-num2,
+            //    '*' =>num1*num2,
+            //    '/' =>num1/num2,
+
+
+            //};
+            //Console.WriteLine(message);
+            #endregion
+
+
         }
     }
 }
