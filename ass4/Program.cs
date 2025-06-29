@@ -20,7 +20,36 @@
             //else
             //      Console.WriteLine("positive");
             #endregion
-
+            #region Q3
+            //Console.WriteLine("enter num 1 : ");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("enter num 2 : ");
+            //int num2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("enter num 3 : ");
+            //int num3 = int.Parse(Console.ReadLine());
+            //int max;
+            //int min;
+            //if (num1 > num2 && num1 > num3)
+            //{
+            //    max = num1;
+            //}
+            //else if (num2 > num1 && num2 > num3)
+            //{
+            //    max = num2;
+            //}
+            //else { max = num3; }
+            //Console.WriteLine($"max element = {max}");
+            //if (num1 < num2 && num1 < num3)
+            //{
+            //    min = num1;
+            //}
+            //else if (num2 < num1 && num2 < num3)
+            //{
+            //    min = num2;
+            //}
+            //else { min = num3; }
+            //Console.WriteLine($"max element = {min}");
+            #endregion
         }
     }
 }
