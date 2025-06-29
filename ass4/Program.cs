@@ -58,6 +58,19 @@
             //else
             //    Console.WriteLine("odd");
             #endregion
+            #region Q5
+            //Console.WriteLine("enter Character : ");
+            //bool isparsed = char.TryParse(Console.ReadLine(), out char character);
+            //character = char.ToLower(character);
+            //if (character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u')
+            //{
+            //    Console.WriteLine("Vowel");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Consonant");
+            //}
+            #endregion
         }
     }
 }
