@@ -280,16 +280,18 @@
             #endregion
             #region Q19
             //Console.WriteLine("enter size arry");
-            //    int n =int.Parse(Console.ReadLine());
-            //int[,] identical = new int[n,n];
-            //for (int i = 0; i < n; i++) {
+            //int n = int.Parse(Console.ReadLine());
+            //int[,] identical = new int[n, n];
+            //for (int i = 0; i < n; i++)
+            //{
             //    identical[i, i] = 1;
 
             //}
             //for (int i = 0; i < n; i++)
             //{
-            //    for (int j = 0; j < n; j++) { 
-            //    Console.Write(identical[i, j]);
+            //    for (int j = 0; j < n; j++)
+            //    {
+            //        Console.Write(identical[i, j]);
 
 
             //    }
@@ -322,6 +324,25 @@
             //for(int i = 0; i < merge.Length; i++) {
             //   Console.Write(merge[i]+" ");
             //}
+            #endregion
+            #region Q22
+            //int[] arr = { 1,1, 2,2, 3,3, 5, 4, 5, 6, 9 };
+            //int []frequency=new int[arr.Length];    
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    int k = 1;
+            //    for (int j = i+1; j < arr.Length; j++)
+            //    {
+            //        if (arr[i] == arr[j])
+            //            k++;
+            //    }
+            //    frequency[i] = k;
+            //    Console.WriteLine($"{arr[i]} repeted = {frequency[i]}");
+
+            //}
+
+
+
             #endregion
 
         }
