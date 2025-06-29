@@ -209,7 +209,27 @@
 
             //}
             #endregion
+            #region Q16
+            //Console.Write("Enter a number to convert: ");
+            //int number = int.Parse(Console.ReadLine());
+            //string binarynum = "";
+            //if (number == 0)
+            //{
+            //    binarynum = "0";
+            //}
+            //else
+            //{
+            //    while (number > 0)
+            //    {
+            //        int reminder = number % 2;
+            //        binarynum = reminder + binarynum;
+            //        number /= 2;
+            //    }
+            //    Console.WriteLine(binarynum);
+            //}
+            #endregion
+
 
         }
     }
-}
+} 
