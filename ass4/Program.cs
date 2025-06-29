@@ -12,7 +12,14 @@
             //    else
             //          Console.WriteLine("no");
             #endregion
-
+            #region Q2
+            //Console.WriteLine("enter number to check positive or negative : ");
+            //    int number = int.Parse(Console.ReadLine());
+            //if (number < 0)
+            //      Console.WriteLine("Negative");
+            //else
+            //      Console.WriteLine("positive");
+            #endregion
 
         }
     }
