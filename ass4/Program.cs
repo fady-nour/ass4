@@ -80,6 +80,17 @@
             //        Console.Write(",");
             //}
             #endregion
+            #region Q7
+            //Console.WriteLine("enter num to get multipication");
+            //int num = int.Parse(Console.ReadLine());
+            //for (int i = 1; 12 >= i; i++)
+            //{
+            //    Console.Write(i * num);
+            //    if (i !=12)
+            //        Console.Write(" ");
+            //}
+            #endregion
+
 
         }
     }
