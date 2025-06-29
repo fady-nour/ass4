@@ -115,7 +115,24 @@
             //}
             //Console.WriteLine(a);
             #endregion
+            #region Q10
+            //double[] marks = new double[5];
+            //double total = 0;
+            //for (int i = 0; i < marks.Length; i++)
+            //{
+            //    Console.WriteLine($"Enter mark {i+1}");
+            //    marks[i] = int.Parse(Console.ReadLine());
+            //    total += marks[i];
+            //}
+    
+            //double average = total / 5.0;
+            //double percentage = (total / 500.0) * 100;
+            //Console.WriteLine($"total = {total}");
+            //Console.WriteLine($"average = {average}");
+            //Console.WriteLine($"percentage = {percentage}");
 
+
+            #endregion
         }
     }
 }
