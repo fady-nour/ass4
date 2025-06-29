@@ -95,14 +95,26 @@
             //int num = int.Parse(Console.ReadLine());
             //for (int i = 1; num >= i; i++)
             //{
-                
+
             //    if (i%2 == 0)
             //        Console.Write(i);
             //    if(i !=num)
             //        Console.Write(" ");
             //}
             #endregion
+            #region Q9
+            //Console.WriteLine("enter num 1 : ");
+            //int num1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("enter num 2 power : ");
+            //int power = int.Parse(Console.ReadLine());
+            //int a =1;
+            //for (int i = 1; i <= power; i++) 
+            //{
+            //   a *= num1;
 
+            //}
+            //Console.WriteLine(a);
+            #endregion
 
         }
     }
