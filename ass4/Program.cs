@@ -62,15 +62,25 @@
             //Console.WriteLine("enter Character : ");
             //bool isparsed = char.TryParse(Console.ReadLine(), out char character);
             //character = char.ToLower(character);
-            //if (character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u')
+            //if ((character == 'a' || character == 'e' || character == 'i' || character == 'o' || character == 'u')&& isparsed == true)
             //{
             //    Console.WriteLine("Vowel");
             //}
-            //else
+            //else if(isparsed ==true )
             //{
             //    Console.WriteLine("Consonant");
             //}
             #endregion
+            #region Q6
+            //Console.WriteLine("enter num to get range");
+            //    int num =int.Parse(Console.ReadLine());
+            //for (int i = 1; num >= i; i++) {
+            //    Console.Write(i);
+            //    if(i != num)
+            //        Console.Write(",");
+            //}
+            #endregion
+
         }
     }
 }
