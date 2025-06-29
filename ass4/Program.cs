@@ -307,6 +307,23 @@
             //}
             //Console.WriteLine(sum);
             #endregion
+            #region Q21
+            //int[] arr1 = { 2, 4, 5, 6, 8 };
+            //int [] arr2 = {2,4,5,6,9};
+            //int[] merge = new int[arr1.Length + arr2.Length];
+            //for (int i = 0; i < arr1.Length; i++) { 
+            //merge[i]=arr1[i];
+            //}
+            //for (int i = 0; i < arr2.Length; i++) { 
+            //merge[arr1.Length+i]=arr1[i];
+            //}
+            //Array.Sort(merge);
+            //Console.WriteLine("merged arry");
+            //for(int i = 0; i < merge.Length; i++) {
+            //   Console.Write(merge[i]+" ");
+            //}
+            #endregion
+
         }
     }
 } 
