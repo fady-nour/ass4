@@ -14,11 +14,11 @@
             #endregion
             #region Q2
             //Console.WriteLine("enter number to check positive or negative : ");
-            //    int number = int.Parse(Console.ReadLine());
+            //int number = int.Parse(Console.ReadLine());
             //if (number < 0)
-            //      Console.WriteLine("Negative");
+            //    Console.WriteLine("Negative");
             //else
-            //      Console.WriteLine("positive");
+            //    Console.WriteLine("positive");
             #endregion
             #region Q3
             //Console.WriteLine("enter num 1 : ");
@@ -49,6 +49,14 @@
             //}
             //else { min = num3; }
             //Console.WriteLine($"max element = {min}");
+            #endregion
+            #region Q4
+            //Console.WriteLine("enter number to check Even or Odd : ");
+            //int number = int.Parse(Console.ReadLine());
+            //if (number%2 == 0)
+            //    Console.WriteLine("Even");
+            //else
+            //    Console.WriteLine("odd");
             #endregion
         }
     }
